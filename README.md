@@ -1,3 +1,7 @@
+# Credits 
+I used Luke Smith's patch dwmblocks [here](https://github.com/LukeSmithxyz/dwmblocks)
+
+
 # dwmblocks
 
 Modular status bar for dwm written in c.
