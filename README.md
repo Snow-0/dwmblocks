@@ -16,7 +16,7 @@ Modular status bar for dwm written in c. This is used with dwm. My repo is [here
     
     dwmblocks 
 # Scripts
-make sure to make the scripts in the src folder an executable so that the status bar works.
+Make sure to make the scripts in the src folder an executable so that the status bar works.
     
 
 # Modifying blocks
